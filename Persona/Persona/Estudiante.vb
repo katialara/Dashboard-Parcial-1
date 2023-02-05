@@ -1,5 +1,5 @@
 ﻿Public Class Estudiante
-    Inherits Persona 'clase estudiante va a heredar de persona
+    Inherits Persona 'clase estudiante va a heredar de persona ESTOY EDITANDO KATIA LARA
 
     'Declaración de atributos
     Private Matricula As String
