@@ -5,7 +5,7 @@
     Private ApMaterno As String
     Private Edad As Integer
 
-    'Declaración de métodos
+    'Declaración de métodos estoy editando desde github
     Public Property NombreP() As String
         Get  'obtiene los valores de los atributos
             Return Nombre
